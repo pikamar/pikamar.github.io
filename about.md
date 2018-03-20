@@ -6,4 +6,4 @@ title: About
 
 In a word: **Awesome!**
 
-See the [Home page](/pikamar/README.md)
+See the [Home page](README.md)
