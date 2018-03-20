@@ -15,3 +15,4 @@ To use the Dinky theme:
     ```ruby
     gem "github-pages", group: :jekyll_plugins
     ```
+[About](about.md)
